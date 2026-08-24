@@ -1,56 +1,5 @@
-# ⚡ Discord Token Generator
-
-<div align="center">
-
-![Version](https://img.shields.io/badge/version-1.0.0-purple)
-![Python](https://img.shields.io/badge/python-3.8+-magenta)
-![License](https://img.shields.io/badge/license-MIT-purple)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-magenta)
-
-**Advanced Discord Account Generator & Humanizer Tool**
-
-![Demo](videos/Kenzv2.gif)
-
-</div>
-
----
-
-## 📸 SCREENSHOTS
-
-| Token Generator | Humanizer |
-|-----------------|-----------|
-| ![TokenGen](images/tokengen.png) | ![Humanizer](images/humanizer.png) |
-
----
-
-## 🚀 FEATURES
-
-| Category | Features |
-|----------|----------|
-| **Token Generator** | • Auto Account Creation<br>• Instant Email Verification <br>• No API Key Required<br>• Random User Agents<br>• Unique Passwords<br>• Y2K Style Usernames<br>• Multi-Account Support<br>• Automatic Saving |
-| **Token Humanizer** | • Random Bios<br>• Display Names<br>• Pronouns<br>• Profile Pictures<br>• Hypesquad Selection<br>• Multi-Thread Support (1-50 threads) |
-| **UI & Experience** | • Neon Purple/Magenta Theme<br>• Pulsing ASCII Art<br>• Colored Console Output<br>• Progress Tracking |
-| **Output Management** | • Token Only Export (tokens.txt)<br>• Full Credentials (token.txt)<br>• Organized kenzshop/ folder |
-
----
-
-
-# ⭐150 STAR FOR Prem📌
-# 🚀 Premium FEATURES
-- ✅ everything auto
-- ✅ Premium mail services
-- ✅ phone verifier
-- ✅ captcha solver
-- ✅ premium joiner
-- ✅ premium features
-- ✅ more threads
-
-
-## 📦 INSTALLATION
-
-```bash
 # Clone the repository
-git clone https://github.com/KenzCybSec/Discord-Token-Gen-V2
+git clone https://github.com/zeh010/Discord-Token-Generator-V2-Zeh
 cd Discord-Token-Generator-V2
 
 # Install dependencies
@@ -83,8 +32,7 @@ Discord-Token-Generator/
 Windows 10/11 ✅ | Kali Linux ✅ | Ubuntu ✅ | macOS ✅
 
 ##📞 SUPPORT
-Discord Server: https://discord.gg/6ZseZcYS
-Discord Server: https://discord.gg/aliucord
+discord : zeh.7
 Join for: Free Support • Updates • Help • Feature Requests
 
 ##💰 Support
@@ -143,8 +91,8 @@ By downloading, cloning, or using this tool, you confirm that you have read, und
 ---
 
 ##👥 CREDITS
-Made by	KenzShop x Aliucord
-Contributors	yeonsieunx
+Made by	zeh
 
 # 📜 LICENSE
 MIT License
+

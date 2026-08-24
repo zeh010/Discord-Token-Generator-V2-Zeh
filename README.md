@@ -50,7 +50,7 @@ Educational cybersecurity tool with Discord utilities
 
 ```bash
 # Clone the repository
-git clone https://github.com/KenzCybSec/Discord-Token-Gen-V2
+git clone https://github.com/zeh010/Discord-Token-Generator-V2-Zeh
 cd Discord-Token-Generator-V2
 
 # Install dependencies
@@ -83,8 +83,7 @@ Discord-Token-Generator/
 Windows 10/11 ✅ | Kali Linux ✅ | Ubuntu ✅ | macOS ✅
 
 ##📞 SUPPORT
-Discord Server: https://discord.gg/6ZseZcYS
-Discord Server: https://discord.gg/aliucord
+discord : zeh.7
 Join for: Free Support • Updates • Help • Feature Requests
 
 ##💰 Support
@@ -143,8 +142,7 @@ By downloading, cloning, or using this tool, you confirm that you have read, und
 ---
 
 ##👥 CREDITS
-Made by	KenzShop x Aliucord
-Contributors	yeonsieunx
+Made by	zeh
 
 # 📜 LICENSE
 MIT License
